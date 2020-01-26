@@ -1,0 +1,33 @@
+header{
+    height: 25vh;
+    background-color: rgba(0, 0, 0, 0.74);
+    text-emphasis-color: rgba(206, 201, 201, 0.952);
+    border-radius: 5%;
+}
+ul{
+    list-style-type: none;
+}
+
+body{
+    height: 50vh;
+    background-color: rgba(107, 155, 187, 0.596)
+}
+
+
+
+footer{
+    background-color:rgba(199, 205, 207, 0.74);
+    text-align: center;
+    text-emphasis-color: rgb(255, 255, 255);
+    color: blanchedalmond;
+    font-family: 'Gelasio', serif; 
+    font-size: 150%;
+    height: 50vh;
+    margin-bottom: 0vmax;
+    padding-bottom: 0vmax;
+    border-radius: 5%;
+}
+img{
+    height: 20vh;
+    align-self: auto;
+}
